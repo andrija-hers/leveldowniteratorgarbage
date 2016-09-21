@@ -1,0 +1,3 @@
+test.db
+*.sw*
+node_modules/*
